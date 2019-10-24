@@ -22,3 +22,7 @@ INSERT INTO characters (name, motto, species, author_id) VALUES ("Golem", "My Pr
 
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Harry Potter", "Expecto Patronum","Wizard",2)
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Ron Weasley", "Bloddy Hell","Wizard",2)
+INSERT INTO characters (name, motto, species, author_id) VALUES ("Voldemory", "Die!","Dark Lord",2)
+INSERT INTO characters (name, motto, species, author_id) VALUES ("Dumbledore", "I'm Confused","Wizard",2)
+
+INSERT INTO 
